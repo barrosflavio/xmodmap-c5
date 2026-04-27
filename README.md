@@ -1,1 +1,1 @@
-![img1](https://github.com/Nevyle/svgs/blob/main/xmodmapmain.svg)
+![img1](https://raw.githubusercontent.com/barrosflavio/xmodmap-c5/refs/heads/main/xmodmapmain.svg)
